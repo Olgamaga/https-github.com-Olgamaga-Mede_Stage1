@@ -1,0 +1,7 @@
+C:\Repos\С#_my projects\Stage1_Project1_loop2\Stage1_Project1_loop2\obj\Debug\Stage1_Project1_loop2.csprojAssemblyReference.cache
+C:\Repos\С#_my projects\Stage1_Project1_loop2\Stage1_Project1_loop2\obj\Debug\Stage1_Project1_loop2.csproj.CoreCompileInputs.cache
+C:\Repos\С#_my projects\Stage1_Project1_loop2\Stage1_Project1_loop2\bin\Debug\Stage1_Project1_loop2.exe.config
+C:\Repos\С#_my projects\Stage1_Project1_loop2\Stage1_Project1_loop2\bin\Debug\Stage1_Project1_loop2.exe
+C:\Repos\С#_my projects\Stage1_Project1_loop2\Stage1_Project1_loop2\bin\Debug\Stage1_Project1_loop2.pdb
+C:\Repos\С#_my projects\Stage1_Project1_loop2\Stage1_Project1_loop2\obj\Debug\Stage1_Project1_loop2.exe
+C:\Repos\С#_my projects\Stage1_Project1_loop2\Stage1_Project1_loop2\obj\Debug\Stage1_Project1_loop2.pdb
